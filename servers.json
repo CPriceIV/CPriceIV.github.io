@@ -112,7 +112,8 @@
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
-},{
-    "name": "[CPriceIV]",   //
+},
+{
+    "name": "CPriceIV",  
     "address": "https://anisette-v3-server-44o2.onrender.com"
 }
